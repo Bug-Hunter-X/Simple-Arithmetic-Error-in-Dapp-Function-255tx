@@ -1,0 +1,1 @@
+This repository contains a simple Solidity smart contract that demonstrates a common error in Dapps: an arithmetic error in a function that adds two numbers. The error occurs when the inputs are not of the expected type, resulting in unexpected output. A solution is provided in the `bugSolution.sol` file.
